@@ -3,7 +3,7 @@ This code performs a semi-automated image analysis procedure to identify microtu
 
 Note, this code is based on Python 3.7 
 
-Scientific paper using this code:
+Scientific paper using this code: doi: 10.1016/j.bpj.2022.11.2946.
 
 <b> Files: </b> <br>
 1. Automated_Analysis: Performs automated template matching to identify microtubules in the full image set. <br>
